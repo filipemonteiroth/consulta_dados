@@ -1,0 +1,22 @@
+{
+  "name": "consulta_dados",
+  "description": "Pacote node para pesquisa de CPF/CNPJ utilizando a pesquisa do webservice fonte de dados",
+  "author": "filipe@tfsolutions.com.br",
+  "version": "0.0.1",
+  "homepage": "https://github.com/filipemonteiroth/consulta_dados",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filipemonteiroth/consulta_dados.git"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/consulta_dados",
+  "engines": {
+    "node": ">= 0.10.x"
+  },
+  "dependencies": {    
+    "restler": "",
+    "xml2json": ""
+  }
+}
