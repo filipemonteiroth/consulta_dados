@@ -5,6 +5,13 @@ Pacote node para pesquisa de CPF/CNPJ utilizando a validação do webservice fon
 
 Para utilizar é necessário que você tenha uma conta criada com usuário e senha.
 
+Instalando
+==========
+
+```javascript
+npm install consulta_dados
+```
+
 
 Como utilizar
 =============
